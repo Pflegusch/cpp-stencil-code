@@ -14,7 +14,7 @@ Running Jacobi method with N = 1024 and 50 Iterations
 Jacobi 1 Thread OpenMP: 387ms
 Jacobi 2 Threads OpenMP: 227ms
 Jacobi 3 Threads OpenMP: 168ms
-Jacobi 4 Threads OpenMP: 176ms or specify N and K with 
+Jacobi 4 Threads OpenMP: 176ms
 ````
 
 Note: g++ version 10.3.0 (Ubuntu 10.3.0-1ubuntu1~20.04) was used when building the project.
