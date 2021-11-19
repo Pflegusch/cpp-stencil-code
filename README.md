@@ -1,8 +1,8 @@
 # Dependencies
 To make the code work the Agner Fog vector class library is neccessary, which one can find here: https://github.com/vectorclass/version2.
 # Build and Run
-Simply type make: Nothing to be done for 'all'. to build the code.
-To run the code, simply run the binary with N: 1024, K: 8, B: 32
+Simply type ``make`` to build the code.
+To run the code, simply run the binary with ``./stencil 1024 8``
 ````
 Reference:  36ms
 Vanilla:    50ms
