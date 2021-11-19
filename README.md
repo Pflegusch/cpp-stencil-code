@@ -1,5 +1,5 @@
 Simply type ```make``` to build the code.
-To run the code, simply run the binary with ./stencil or specify N and K with ./stencil <N> <K>
+To run the code, simply run the binary with ```./stencil``` or specify N and K with ```./stencil <N> <K>```
 
 Note: g++ version 10.3.0 (Ubuntu 10.3.0-1ubuntu1~20.04) was used when building the project.
 
